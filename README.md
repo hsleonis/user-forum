@@ -1,4 +1,5 @@
 User Forum with EL Framework (PHP)
+### Author: MD. HASAN SHAHRIAR ###
 ==================================
 
 #### Forum with PHP EL framework for creating REST APIS ####
@@ -93,3 +94,7 @@ Single post sub-comments
 ````
 sub_comments(postId, post_parent)
 ````
+
+#### License ####
+MIT
+Do whatever awesomeness you want!
